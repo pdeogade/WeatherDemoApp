@@ -59,6 +59,7 @@ UI Components:
   WeatherHomeScreen contains input fields, displays weather details, and uses a custom gradient background.
 
 Screen Shots:
+
 ![Screenshot 2024-10-15 184051](https://github.com/user-attachments/assets/7e227f7d-ccb2-47f5-bbab-567ce8e1a469)
 
 [Screen_recording_20241015_182839.webm](https://github.com/user-attachments/assets/1e4b65b3-125c-416f-aff6-06d726a7da4f)
