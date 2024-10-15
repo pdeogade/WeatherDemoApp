@@ -57,3 +57,18 @@ UI Update:
 
 UI Components:
   WeatherHomeScreen contains input fields, displays weather details, and uses a custom gradient background.
+
+Screen Shots:
+![Screenshot_20241015_182332](https://github.com/user-attachments/assets/472c5ef9-9016-4180-8ff4-790260d8197d)
+
+
+[Screen_recording_20241015_182839.webm](https://github.com/user-attachments/assets/1e4b65b3-125c-416f-aff6-06d726a7da4f)
+
+Execute Test Task: 
+	Before running any tests, make sure your project is fully synchronized with Gradle by clicking Sync Project  in the toolbar. You can run tests with different levels of granularity:
+	To run all tests in a directory or file, open the Project window and do either of the following:
+	Right-click on a directory or file and click Run .
+	Select the directory or file and use shortcut Control+Shift+R.
+
+	other way from terminal:  use ./gradlew test
+
