@@ -167,7 +167,7 @@ private fun WeatherErrorState(
             textAlign = TextAlign.Center,
         )
 
-        Button(onClick = { viewModel?.getWeather() }) {
+        Button(onClick = { viewModel?.getWeather(viewModel.searchTextState.value) }) {
             Icon(
                 imageVector = Icons.Filled.Refresh,
                 contentDescription = "Retry",
