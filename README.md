@@ -1,6 +1,8 @@
 # Weather
 This is Sample Weather app, show the weather of city you enter, It use https://www.weatherapi.com/api-explorer.aspx#forecast to fetch the weather related info.
 
+Note: Login too [weather api](https://www.weatherapi.com) to get your api key, add this key in gradle.properties
+
 
 ## Tech Stack used:
 
