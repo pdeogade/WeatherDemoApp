@@ -29,16 +29,16 @@ This is Sample Weather app, show the weather of city you enter, It use https://w
    	
 ## Architecture:
 
-	Weather app is made with clean architecture approach. Here, business logic is independent of UI and frameworks, 
- 	promoting maintainable and scalable code. Key principles include:
+Weather app is made with clean architecture approach. Here, business logic is independent of UI and frameworks, 
+promoting maintainable and scalable code. Key principles include:
 		
-	1) Data Layer: Manages data operations and acts as the source of data for the entire app.
+**1) Data Layer:** Manages data operations and acts as the source of data for the entire app.
 
-	2) Domain Layer: Contains business logic and domain entities, representing the core of the application.
+**2) Domain Layer:** Contains business logic and domain entities, representing the core of the application.
 
-	3) Dependency Injection: Manages dependencies in a scalable way, enhancing testability and modularity.
+**3) Dependency Injection:** Manages dependencies in a scalable way, enhancing testability and modularity.
 
-	4) Presentation Layer: Handles UI and user interaction, ensuring a clear separation from business logic
+**4) Presentation Layer:** Handles UI and user interaction, ensuring a clear separation from business logic
 
 
 
@@ -67,8 +67,8 @@ This is Sample Weather app, show the weather of city you enter, It use https://w
 	  WeatherHomeScreen contains input fields, displays weather details, and uses a custom gradient background.
 
    	OfflineMode:
-    		User can go offline by disabling internet. Now when user try to fetch the weather of city which has been entered previously,
-      		we will get the data from cache implemented in app
+    	  User can go offline by disabling internet. Now when user try to fetch the weather of city which has been entered previously,
+      	  we will get the data from cache implemented in app
 
 ## Screen Shot:
 
