@@ -70,7 +70,7 @@ promoting maintainable and scalable code. Key principles include:
 
    	OfflineMode:
     	  User can go offline by disabling internet. Now when user try to fetch the weather of city which has been entered previously,
-      	  we will get the data from cache implemented in app
+      	  we will get the data from cache implemented in app. currently this uses only network layer cache
 
 ## Screen Shot:
 
