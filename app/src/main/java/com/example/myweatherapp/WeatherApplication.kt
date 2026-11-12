@@ -6,6 +6,7 @@ import dagger.hilt.android.HiltAndroidApp
 @HiltAndroidApp
 class WeatherApplication : Application() {
     override fun onCreate() {
+        //temp check
         super.onCreate()
     }
 }
