@@ -31,7 +31,7 @@ Note: Login too [weather api](https://www.weatherapi.com) to get your api key, a
    	
 ## Architecture:
 
-Weather app is made with clean architecture approach. Here, business logic is independent of UI and frameworks, 
+Weather app is made with MVVM + clean architecture approach. Here, business logic is independent of UI and frameworks, 
 promoting maintainable and scalable code. Key principles include:
 		
 **1) Data Layer:** Manages data operations and acts as the source of data for the entire app.
